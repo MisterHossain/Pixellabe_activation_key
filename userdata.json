@@ -13,8 +13,8 @@
     },
     {
         "device_id": "device2ac0194eeaebacd2",
-        "key": "Mister327",
+        "key": "keyMister327",
         "expirydate": "15-06-2026",
-        Allowofflinee": false
+        Allowofflinee": true
     }
 ]
