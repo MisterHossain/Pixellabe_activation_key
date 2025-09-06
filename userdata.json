@@ -12,9 +12,9 @@
         Allowofflinee": false
     },
     {
-        "device_id": "device2ac0194eeaebacd2",
-        "key": "keyMister327",
-        "expirydate": "15-06-2026",
+        "device_id": "2ac0194eeaebacd2",
+        "key": "key327",
+        "expirydate": "13-11-2026",
         Allowofflinee": true
     }
 ]
